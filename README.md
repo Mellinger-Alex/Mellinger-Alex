@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mellinger-Alex
-- 👀 I’m interested in ... Data Analysis/Data Science
+- 👀 I’m interested in ... Data Science, Web Development, Software
 - 🌱 I’m currently learning ... SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... alexmellinger729@gmail.com
